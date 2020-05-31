@@ -4,6 +4,7 @@
 	<parent>
 		<!-- Your own application should inherit from spring-boot-starter-parent -->
 		<!-- Steve made some changes, but only by adding this line of text-->
+		<!-- Steve made some more changes, but only by adding this line of text-->
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.4.0.RELEASE</version>
